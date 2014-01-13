@@ -1,0 +1,8 @@
+{
+  "name": "visible",
+  "description": "tells if a domElement is visible or not",
+  "scripts": ["index.js"],
+  "development": {
+    "component/assert": "*"
+  }
+}
